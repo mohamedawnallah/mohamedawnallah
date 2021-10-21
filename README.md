@@ -64,7 +64,7 @@ I am a fullstack software engineer from Egypt
 
 [<img align="left" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/+201017271971)
 
-<br>
+<br />
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
