@@ -24,6 +24,7 @@ I am a fullstack software engineer from Egypt
  - Excel
  - Distributed Version Control System
  - SQL
+ - MYSQL RDBMS
  - Design Thinking
  - Object Oriented Programming
  - Data Structures
@@ -58,9 +59,15 @@ I am a fullstack software engineer from Egypt
 
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+
+<img align="left" alt="html" src="https://img.shields.io/badge/HTML-red?logo=html&logoColor=green&style=for-the-badge" /> 
+
+<img align="left" alt="css" src="https://img.shields.io/badge/CSS-eb6734?logo=css&logoColor=green&style=for-the-badge" /> 
+
+<img align="left" alt="css" src="https://img.shields.io/badge/dart-2AB5F6?logo=dart&logoColor=black&style=for-the-badge" /> 
 
 <br>
 <br>
