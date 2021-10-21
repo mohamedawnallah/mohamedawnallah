@@ -31,6 +31,8 @@ I am a fullstack software engineer from Egypt
  - Clean Code
  - Common Algorithms
  - Problem Solving
+ - Networking Fundamentals
+ - Operating System Fundamentals
 
 
 ## We're professional
