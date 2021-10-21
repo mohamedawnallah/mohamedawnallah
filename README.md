@@ -40,9 +40,8 @@ I am a fullstack software engineer from Egypt
 
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
-## Blog posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
