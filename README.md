@@ -1,36 +1,43 @@
-### Hi there, I'm Mohamed Awnallah 👋
-
-## I'm an Application Flutter Developer as well as I am learning Node js as a server side used in backend to be a full stack mobile app developer.
+### Hello World 👋
+I am a fullstack software engineer from Egypt
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Fundamentals of Computer Science well and in     parelle enhance my experience in flutter framework
-- ⚡ Fun fact: I love to meditate and create solutions for existing problems
+- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🌱 Learning Software Engineering Principles in depth
+- 🌱 Learning Data Analysis Field (as a Junior Data Analyst)
+- 🌱 Learning C++ for Computer Science College, Programming Competitions and accquiring new aspect from different low level langauge take full usage of it into          unreal game engine
+- 🌱 Learning Calclus, Math In depth
+- 🌱 Learning Test Driven Development
 
 ### Skills:
- - Mobile App Development using flutter framework
  - Dart programming langugage
  - Java programming language
- - Object Oriented Programming
+ - Python programming language
+ - Javascript programming language
+ - C++ programming language
  - HTML
  - CSS
+ - Backend and Frontend Web Technologies (React - Nodejs - ...)
+ - Native Android Mobile App Development 
+ - Cross Platform Mobile App Development Using Flutter
+ - Excel
+ - Distributed Version Control System
+ - SQL
+ - Design Thinking
+ - Object Oriented Programming
  - Data Structures
- - Sort And Search Algorithms
+ - Design Patterns
+ - Clean Code
+ - Common Algorithms
  - Problem Solving
- - English Speaking Advanced Level
- - Firebase as a backend service
- - Subabase as an alternative intstead of Firebase
- - Passionate about Neuro Science and how the brain works
-  
+
+
 ## We're professional
 
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-[linkedin]: https://www.linkedin.com/in/mohamed-awnallah-1775ab1b3/
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/mohamed-awnallah-1775ab1b3/)
 
