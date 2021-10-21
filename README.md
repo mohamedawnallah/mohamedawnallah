@@ -63,8 +63,6 @@ I am a fullstack software engineer from Egypt
 <img align="left" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 <br>
-[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Skills)
-
 
 ## Frameworks, Platforms and Libraries
 <img align="left" alt="anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
@@ -232,3 +230,4 @@ I am a fullstack software engineer from Egypt
 
 <br>
 
+[![](https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue)](#Skills)
