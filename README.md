@@ -40,6 +40,11 @@ I am a fullstack software engineer from Egypt
 
 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 ### Connect with me:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-awnallah-1775ab1b3/)
 
