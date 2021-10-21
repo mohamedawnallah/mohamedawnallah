@@ -50,7 +50,6 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MohamedAwnallah)
 
 <br>
-<br>
 
 ## Expertise
 <img align="left" alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -63,7 +62,6 @@ I am a fullstack software engineer from Egypt
 
 <img align="left" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
-<br>
 <br>
 
 ## Frameworks, Platforms and Libraries
@@ -82,7 +80,6 @@ I am a fullstack software engineer from Egypt
 <img align="left" alt="medium" src="https://img.shields.io/badge/mysql-%23316192.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br>
-<br>
 
 ## Operating Systems
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -96,14 +93,12 @@ I am a fullstack software engineer from Egypt
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
 
 <br>
-<br>
 
 ## Hosting/SaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<br>
 <br>
 
 ## Databases
@@ -114,14 +109,12 @@ I am a fullstack software engineer from Egypt
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 <br>
-<br>
 
 ## ML/DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<br>
 <br>
 
 ## Office
@@ -132,7 +125,6 @@ I am a fullstack software engineer from Egypt
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 <br>
-<br>
 
 ## IDEs/Editors
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -141,7 +133,6 @@ I am a fullstack software engineer from Egypt
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
 <br>
 
 ## Version Control
@@ -152,12 +143,10 @@ I am a fullstack software engineer from Egypt
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br>
-<br>
 
 ## Blog
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-<br>
 <br>
 
 ## Gaming
@@ -166,12 +155,10 @@ I am a fullstack software engineer from Egypt
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <br>
-<br>
 
 ## Cloud Storage
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
-<br>
 <br>
 
 ## Store
@@ -180,14 +167,12 @@ I am a fullstack software engineer from Egypt
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 <br>
-<br>
 
 ## Funding
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
 ![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
 
-<br>
 <br>
 
 ## Browsers
@@ -202,12 +187,10 @@ I am a fullstack software engineer from Egypt
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
  
 <br>
-<br>
 
 ## Search Engines
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-<br>
 <br>
 
 ## Social
@@ -234,4 +217,4 @@ I am a fullstack software engineer from Egypt
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 <br>
-<br>
+
