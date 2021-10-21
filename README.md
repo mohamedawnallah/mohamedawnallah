@@ -42,6 +42,11 @@ I am a fullstack software engineer from Egypt
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
+- [Do zero à automação em 7 minutos com GitHub Actions](https://medium.com/@khaosdoctor/do-zero-%C3%A0-automa%C3%A7%C3%A3o-em-7-minutos-com-github-actions-ca08364e8c36?source=rss-84c42a22cef7------2)
+- [Javascript: Entendendo Async Iterators](https://medium.com/trainingcenter/javascript-entendendo-async-iterators-8322fc7106db?source=rss-84c42a22cef7------2)
+- [Entendendo Promises de uma vez por todas](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2?source=rss-84c42a22cef7------2)
+- [Como é trabalhar como desenvolvedor backend, por Luiz Felipe Limeira](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-desenvolvedor-backend-por-luiz-felipe-limeira-f795edc4fe48?source=rss-84c42a22cef7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
