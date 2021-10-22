@@ -95,6 +95,8 @@ I am a fullstack software engineer from Egypt
 
 <img align="left" alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 
+<img align="left" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
