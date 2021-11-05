@@ -82,6 +82,7 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## Frameworks, Platforms and Libraries
 <img align="left" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
@@ -101,6 +102,7 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## Operating Systems
 <img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -116,6 +118,7 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## Hosting/SaaS
 <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -124,6 +127,7 @@ I am a fullstack software engineer from Egypt
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
 
 ## Databases
@@ -136,6 +140,7 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## ML/DL
 <img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -144,6 +149,7 @@ I am a fullstack software engineer from Egypt
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
 
 ## Office
@@ -156,6 +162,7 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## IDEs/Editors
 <img align="left" alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -166,6 +173,7 @@ I am a fullstack software engineer from Egypt
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
 
 ## Version Control
@@ -178,12 +186,14 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## Blog
 <img align="left" alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
 
 ## Work/Jobs
@@ -194,12 +204,14 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## Developer/Forums
 <img align="left" alt="Stack-Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
 
 ## Gaming
@@ -210,12 +222,14 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## Cloud Storage
 <img align="left" alt="Google-Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
 
 ## Store
@@ -226,6 +240,7 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## Funding
 <img align="left" alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
@@ -234,6 +249,7 @@ I am a fullstack software engineer from Egypt
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
 
 ## Browsers
@@ -250,12 +266,14 @@ I am a fullstack software engineer from Egypt
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
 <br>
+<br>
 
 ## Search Engines
 <img align="left" alt="Google" src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
 
 ## Social
@@ -273,4 +291,5 @@ I am a fullstack software engineer from Egypt
 
 [<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
 
+<br>
 <br>
