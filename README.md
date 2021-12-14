@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack software engineer from Egypt
+I am a fullstack software engineer
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
