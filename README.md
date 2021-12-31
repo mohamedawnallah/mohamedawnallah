@@ -1,19 +1,11 @@
 ### Hello World 👋
-I am a fullstack software engineer
-
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning Software Engineering Principles in depth
-- 🌱 Learning Data Analysis Field (as a Junior Data Analyst)
-- 🌱 Learning C++ for Computer Science College, Programming Competitions and accquiring new aspect from different low level langauge take full usage of it into          unreal game engine
-- 🌱 Learning Calclus, Math In depth
-- 🌱 Learning Test Driven Development
+I am a Data Analyst | Translate Ambigious Business Problems Into Actionable ones | Software Engineer | Language Agnostic
 
 ### Skills:
+ - Python programming language
+ - Pan
  - Dart programming langugage
  - Java programming language
- - Python programming language
  - Javascript programming language
  - C++ programming language
  - HTML
@@ -38,14 +30,14 @@ I am a fullstack software engineer
 
 ## We're professional
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif"/>
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
-[<img align="left" alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />](https://twitter.com/MohamedAwnallah)
+[<img align="left" alt="portfolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />](http://awnallah.herokuapp.com/)
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohamed-awnallah-1775ab1b3/)
 
