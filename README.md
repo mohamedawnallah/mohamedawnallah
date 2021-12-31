@@ -33,7 +33,7 @@ Data Analyst | Translate Ambigious Business Problems Into Actionable ones | Soft
  - Operating System Fundamentals
 
 
-## We're professional
+## We're Data Nerds
 
 <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif"/>
 
