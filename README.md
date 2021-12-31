@@ -1,9 +1,15 @@
 ### Hello World 👋
-I am a Data Analyst | Translate Ambigious Business Problems Into Actionable ones | Software Engineer | Language Agnostic
+Data Analyst | Translate Ambigious Business Problems Into Actionable ones | Software Engineer | Language Agnostic
 
 ### Skills:
- - Python programming language
- - Pan
+ - Excel
+ - SQL
+ - PostgreSQL RDBMS
+ - Python 
+ - Pandas Library
+ - Matplotlib Library
+ - Seaborn Library
+ - Tableau
  - Dart programming langugage
  - Java programming language
  - Javascript programming language
@@ -16,7 +22,6 @@ I am a Data Analyst | Translate Ambigious Business Problems Into Actionable ones
  - Excel
  - Distributed Version Control System
  - SQL
- - MYSQL RDBMS
  - Design Thinking
  - Object Oriented Programming
  - Data Structures
