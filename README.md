@@ -51,7 +51,8 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
 
 
 ## We're Data Nerds
-![Image](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
+
+![giphy](https://user-images.githubusercontent.com/69568555/158992760-339b6202-0c6c-467c-99cf-41754a624b9c.gif)
 
 
 ### 📕 Blog posts
