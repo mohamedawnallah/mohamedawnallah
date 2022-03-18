@@ -3,32 +3,32 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
 
 ### Skills:
 #### Technical Skills:
- ##### Proficient:
-  - SQL Programming
-  - Relational Databases e.g: PostgreSQL
-  - Database Design & Fundamentals
-  - Data Modelling
-  - Python 
-  - SOLID Principles
-  - Clean Code
-  - Object Oriented Design & Programming
-  - Desgin Patterns
-  - Code Design Archicteures e.g: Repository Design Pattern, ...
-  - Data Structures and Algorithms
-  - Operating System and Networking Fundamentals
-  - Data Analysis Python
-  - Problem Solving
-  - Data Visualization e.g: Excel - Tableau.
-  - Version Control System
+  ##### Proficient:
+   - SQL Programming
+   - Relational Databases e.g: PostgreSQL
+   - Database Design & Fundamentals
+   - Data Modelling
+   - Python 
+   - SOLID Principles
+   - Clean Code
+   - Object Oriented Design & Programming
+   - Desgin Patterns
+   - Code Design Archicteures e.g: Repository Design Pattern, ...
+   - Data Structures and Algorithms
+   - Operating System and Networking Fundamentals
+   - Data Analysis Python
+   - Problem Solving
+   - Data Visualization e.g: Excel - Tableau.
+   - Version Control System
   
  ##### Familiar:
-  - Backend and Frontend Web Technologies (HTML, CSS, JS, React - Nodejs - ...)
-  - Mobile App Development (Native e.g: Android, Cross-Platform e.g: Flutter)
+   - Backend and Frontend Web Technologies (HTML, CSS, JS, React - Nodejs - ...)
+   - Mobile App Development (Native e.g: Android, Cross-Platform e.g: Flutter)
   
  ##### Basic:
-  - Cloud Computing e.g: AWS
-  - Agile Methodologies
-  - Distributed Systems
+   - Cloud Computing e.g: AWS
+   - Agile Methodologies
+   - Distributed Systems
  
 #### Behavioral Skills:
  - Written and Verbal Communicator
