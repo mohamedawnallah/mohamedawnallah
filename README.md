@@ -2,35 +2,49 @@
 Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accuracy | Design, Develop, and Maintain Database Architecture | Data Analyst | Translate Ambigious Business Problems Into Actionable ones | Software Engineer | Language Agnostic | Platform Independent
 
 ### Skills:
- - Excel
- - SQL
- - PostgreSQL RDBMS
- - Python 
- - Pandas Library
- - Matplotlib Library
- - Seaborn Library
- - Tableau
- - Dart programming langugage
- - Java programming language
- - Javascript programming language
- - C++ programming language
- - HTML
- - CSS
- - Backend and Frontend Web Technologies (React - Nodejs - ...)
- - Native Android Mobile App Development 
- - Cross Platform Mobile App Development Using Flutter
- - Excel
- - Distributed Version Control System
- - SQL
- - Design Thinking
- - Object Oriented Programming
- - Data Structures
- - Design Patterns
- - Clean Code
- - Common Algorithms
- - Problem Solving
- - Networking Fundamentals
- - Operating System Fundamentals
+#### Technical Skills:
+ - Proficient:
+  - SQL Programming
+  - Relational Databases e.g: PostgreSQL
+  - Database Design & Fundamentals
+  - Data Modelling
+  - Python 
+  - SOLID Principles
+  - Clean Code
+  - Object Oriented Design & Programming
+  - Desgin Patterns
+  - Code Design Archicteures e.g: Repository Design Pattern, ...
+  - Data Structures and Algorithms
+  - Operating System and Networking Fundamentals
+  - Data Analysis Python
+  - Problem Solving
+  - Data Visualization e.g: Excel - Tableau.
+  - Version Control System
+  
+ - Familiar:
+  - Backend and Frontend Web Technologies (HTML, CSS, JS, React - Nodejs - ...)
+  - Mobile App Development (Native e.g: Android, Cross-Platform e.g: Flutter)
+  
+ - Basic:
+  - Cloud Computing e.g: AWS
+  - Agile Methodologies
+  - Distributed Systems
+ 
+#### Behavioral Skills:
+ - Written and Verbal Communicator
+ - Passionate for Technology, Data Engineering
+ - Willingness to share my knowledge with other team members
+ - Ability to work in a fast-paced and agile environment
+ - The Ability to engage with teammates, business, and technical teams
+ - Explain Technical Problems to Non-Technical People in a Story Form
+ - Easily adapt and learn new things to business requirements criteria
+ - Make an Impact in surround enviroment
+ - Honest on Working Schedules
+ - Willingness to work in agile processes
+
+#### Domain Skills:
+ - Technology Latest Updates e.g: Web3.
+ - Finance, Cryptocurrencies.
 
 
 ## We're Data Nerds
