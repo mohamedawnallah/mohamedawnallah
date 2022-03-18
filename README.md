@@ -26,12 +26,13 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
  ##### Familiar:
    - Backend and Frontend Web Technologies (HTML, CSS, JS, React - Nodejs - ...)
    - Mobile App Development (Native e.g: Android, Cross-Platform e.g: Flutter)
-   - C++, Dart, Java
+   - C++, Dart, and Java
   
  ##### Basic:
    - Cloud Computing e.g: AWS
    - Agile Methodologies
    - Distributed Systems
+   - Scala
  
 #### Behavioral Skills:
  - Written and Verbal Communicator
