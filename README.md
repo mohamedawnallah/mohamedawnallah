@@ -41,7 +41,7 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
  - The Ability to engage with teammates, business, and technical teams
  - Explain Technical Problems to Non-Technical People in a Story Form
  - Easily adapt and learn new things to business requirements criteria
- - Make an Impact in surround enviroment
+ - Make an Impact in the surrounding enviroment
  - Honest on Working Schedules
  - Willingness to work in agile processes
 
