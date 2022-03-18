@@ -19,6 +19,8 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
    - Data Analysis Python
    - Problem Solving
    - Data Visualization e.g: Excel - Tableau.
+   - Linux Adiminstration
+   - Automation
    - Version Control System
   
  ##### Familiar:
