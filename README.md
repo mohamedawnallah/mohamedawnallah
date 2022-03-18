@@ -27,6 +27,7 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
    - Backend and Frontend Web Technologies (HTML, CSS, JS, React - Nodejs - ...)
    - Mobile App Development (Native e.g: Android, Cross-Platform e.g: Flutter)
    - C++, Dart, and Java
+   - Test Driven Development e.g: Unit Testing
   
  ##### Basic:
    - Cloud Computing e.g: AWS
