@@ -1,9 +1,8 @@
 ### Hello World 👋
 Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accuracy | Design, Develop, and Maintain Database Architecture | Data Analyst | Translate Ambigious Business Problems Into Actionable ones | Software Engineer | Language Agnostic | Platform Independent
 
-### Skills:
-#### Technical Skills:
-  ##### Proficient:
+### Technical Skills:
+  #### Proficient:
    - SQL Programming
    - Relational Databases e.g: PostgreSQL
    - Database Design & Fundamentals
@@ -23,19 +22,19 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
    - Automation
    - Version Control System
   
- ##### Familiar:
+ #### Familiar:
    - Backend and Frontend Web Technologies (HTML, CSS, JS, React - Nodejs - ...)
    - Mobile App Development (Native e.g: Android, Cross-Platform e.g: Flutter)
    - C++, Dart, and Java
    - Test Driven Development e.g: Unit Testing
   
- ##### Basic:
+ #### Basic:
    - Cloud Computing e.g: AWS
    - Agile Methodologies
    - Distributed Systems
    - Scala
  
-#### Behavioral Skills:
+### Behavioral Skills:
  - Written and Verbal Communicator
  - Passionate for Technology, Data Engineering
  - Willingness to share my knowledge with other team members
@@ -47,7 +46,7 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
  - Honest on Working Schedules
  - Willingness to work in agile processes
 
-#### Domain Skills:
+### Domain Skills:
  - Technology Latest Updates e.g: Web3.
  - Finance, Cryptocurrencies.
 
