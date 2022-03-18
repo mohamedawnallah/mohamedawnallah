@@ -1,5 +1,5 @@
 ### Hello World 👋
-Data Analyst | Translate Ambigious Business Problems Into Actionable ones | Software Engineer | Language Agnostic
+Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accuracy | Design, Develop, and Maintain Database Architecture | Data Analyst | Translate Ambigious Business Problems Into Actionable ones | Software Engineer | Language Agnostic | Platform Independent
 
 ### Skills:
  - Excel
