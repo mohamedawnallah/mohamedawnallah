@@ -18,7 +18,6 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
    - Data Analysis Python
    - Problem Solving
    - Data Visualization e.g: Excel - Tableau.
-   - Linux Adiminstration
    - Automation
    - Version Control System
   
@@ -27,6 +26,7 @@ Data Engineer | Develop and Maintain Data Pipelines | Ensure Data Quality & Accu
    - Mobile App Development (Native e.g: Android, Cross-Platform e.g: Flutter)
    - C++, Dart, and Java
    - Test Driven Development e.g: Unit Testing
+   - Linux Adiminstration
   
   #### Basic:
    - Cloud Computing e.g: AWS
