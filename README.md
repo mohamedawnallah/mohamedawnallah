@@ -73,8 +73,6 @@ As a Data Engineer, Data Analyst, Software Engineer loves building elegant softw
 
 [<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohamedmohey2352@gmail.com)
 
-[<img align="left" alt="back_top" src="https://img.shields.io/badge/back%20to%20top-%E2%86%A9-blue" />](#hello-world-)
-
 <br>
 <br>
 
