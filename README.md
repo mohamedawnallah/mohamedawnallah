@@ -7,12 +7,10 @@
 - ⚡ Fun fact: 
   - 😁 i'm addicted to learning and improving every day
   - :pencil: i love to see others grow and improve
+- [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/mohamedawnallah)
 
 ![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mhmdawnallah&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true)
 
 ![Most Used Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdawnallah)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mhmdawnallah)
-
----
-Let's Connect on: [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/mohamedawnallah)
