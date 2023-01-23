@@ -5,7 +5,7 @@
 - 👯 In my free time, I like to contribute to open source, learn about platform design and system architecture designs, pipelines that can help transform business into being data-powered, and make an impact at global scale.
 - 💬 Ask me anything related to Data Engineering
 - ⚡ Fun fact: 
-  - 😁 i'm addicted to learning and improving every day
+  - 😁 i'm addicted to learning and improving every single day
   - :pencil: i love to see others grow and improve
 - [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/mohamedawnallah)
 
