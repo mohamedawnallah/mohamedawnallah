@@ -12,10 +12,12 @@
 
 ---
 
-<!-- **[<kbd> <br> My Blogs <br> </kbd>](#my-blogs)**  -->
+**[<kbd> <br> My Blogs <br> </kbd>](#my-blogs)** 
 **[<kbd> <br> Work Experience <br> </kbd>](#work-experience)** 
-<!-- **[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)**  -->
+**[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)** 
+**[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)**
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
+
 
 ---
 
@@ -32,7 +34,7 @@
 
 ## About
 
-- 👨‍🎓 2nd year at **Dept. of Computer Science, Tanta University, Egypt**.
+- 👨‍🎓 2nd year computer science student at Tanta University, Egypt.
 <!-- - 📝 I blog at [mohamdawnalah.dev](https://arnabsen.dev). -->
 <!-- - 📫 Find me at [mohamedawnallah.dev/links](https://arnabsen.dev/links). -->
 <!-- - 📜 [My Resume](https://mohamedawnallah.dev/resume.pdf). -->
@@ -49,6 +51,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Mentee]
 | [Omdena](https://omdena.com/) | Machine Learning Engineer | Dec 2022 - Present |
 | [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - Present |
 | [Banque Misr](https://www.banquemisr.com/) | Data Scientist Intern | Aug 2022 - Oct 2022 |
@@ -57,6 +60,12 @@
 | [Data With Danny](https://www.datawithdanny.com/) | Data Analyst Apprenticeship | Mar 2022 - Jun 2022)
 | [Upwork](https://www.upwork.com/) | Software Engineer Freelancer | Mar 2021 - Apr 2022 |
 | [Glitchfix](https://glitchfix.net/) | Mobile App Developer | May 2021 - Sep 2021 |
+
+## Mentorship Experience
+| 🏢 Org | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Adplist](https://adplist.org/members/mohamed-awnallah) | Data Engineering Mentee | Jul 2022 - Present
+| [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - Present
 
 ## Volunteering Experience
 | 🏢 Org | 💼 Role | ⏰ Duration |
