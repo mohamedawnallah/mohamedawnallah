@@ -55,9 +55,9 @@
 | [Omdena](https://omdena.com/) | Machine Learning Engineer | Dec 2022 - Present |
 | [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - Present |
 | [Banque Misr](https://www.banquemisr.com/) | Data Scientist Intern | Aug 2022 - Oct 2022 |
-| [Learn Data Engineering](https://learndataengineering.com/) | Data Engineering Apprenticeship | Jul 2022 - Aug 2022 |
+| [Learn Data Engineering](https://learndataengineering.com/) | Data Engineering Apprentice | Jul 2022 - Aug 2022 |
 | [First Gulf Solutions](https://www.firstgulfsolutions.com/) | Automation Engineer Intern | Mar 2021 - Jun 2021 |
-| [Data With Danny](https://www.datawithdanny.com/) | Data Analyst Apprenticeship | Mar 2022 - Jun 2022)
+| [Data With Danny](https://www.datawithdanny.com/) | Data Analyst Apprentice | Mar 2022 - Jun 2022)
 | [Upwork](https://www.upwork.com/) | Software Engineer Freelancer | Mar 2021 - Apr 2022 |
 | [Glitchfix](https://glitchfix.net/) | Mobile App Developer | May 2021 - Sep 2021 |
 
