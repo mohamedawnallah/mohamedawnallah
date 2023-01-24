@@ -51,7 +51,6 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Mentee]
 | [Omdena](https://omdena.com/) | Machine Learning Engineer | Dec 2022 - Present |
 | [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - Present |
 | [Banque Misr](https://www.banquemisr.com/) | Data Scientist Intern | Aug 2022 - Oct 2022 |
