@@ -77,7 +77,7 @@
 * anything **data engineering** related projects
 * anything **machine learning** related projects 
 
+![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mhmdawnallah&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false&include_all_commits=true)
 
-![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mhmdawnallah&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdawnallah&hide=html&layout=compact&theme=dracula)](https://github.com/matthew-mcateer/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdawnallah&hide=html&layout=compact&theme=tokyonight)](https://github.com/matthew-mcateer/github-readme-stats)
