@@ -41,10 +41,10 @@
 - I :heart: building and maintaining end-to-end data pipelines, ensuring data quality and accuracy, implementing data governance and security practices, and working with big data technologies
 - I'm an avid reader who enjoys delving deep into the stories and information contained within books :book:.
 - In my free time ⛱, I like to contribute to open source, learn about platform design and system architecture designs, pipelines that can help transform business into being data-powered, and make an impact at global scale.
+- 🌱 I’m currently learning about Machine Learning Reinforcement Learning Algorithms.
 - 💬 Ask me anything related to Data Engineering
-- ⚡ Fun fact: I'm addicted to learning and improving every single day
-
-
+- 🙂 Pronouns: he/him
+- 🕵️ Fun fact: I'm addicted to learning and improving every single day
 
 ## Work Experience
 
