@@ -35,9 +35,6 @@
 ## About
 
 - I am a 2nd year computer science student 👨‍🎓 at Tanta University, Egypt 🏫🇪🇬.
-<!-- - 📝 I blog at [mohamdawnalah.dev](https://arnabsen.dev). -->
-<!-- - 📫 Find me at [mohamedawnallah.dev/links](https://arnabsen.dev/links). -->
-<!-- - 📜 [My Resume](https://mohamedawnallah.dev/resume.pdf). -->
 - I love building data engineering pipelines 🛠️📊🔍 and investigating the data patterns 📊🔍.
 - I'm an avid reader 📚📖🔍 who enjoys delving deep into the stories and information contained within books 🤓.
 - I like to contribute to open source 💻🛠️, learn about platform design📊 and system architecture designs💡, and make an impact at global scale🌍🦸‍♂️
@@ -45,7 +42,7 @@
 - 🌱 I’m currently learning about Machine Learning Reinforcement Learning Algorithms.
 - 💬 Ask me anything related to Data Engineering
 - 🙂 Pronouns: he/him
-- 🕵️ Fun fact: I'm addicted to learning and improving every single day
+- 🕵️ Fun fact: The world's largest pyramid is not in Egypt, but in Mexico
 
 ## Work Experience
 
