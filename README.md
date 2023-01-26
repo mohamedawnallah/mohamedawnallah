@@ -34,13 +34,14 @@
 
 ## About
 
-- 👨‍🎓 2nd year computer science student at Tanta University, Egypt.
+- I am a 2nd year computer science student 👨‍🎓 at Tanta University, Egypt 🏫🇪🇬.
 <!-- - 📝 I blog at [mohamdawnalah.dev](https://arnabsen.dev). -->
 <!-- - 📫 Find me at [mohamedawnallah.dev/links](https://arnabsen.dev/links). -->
 <!-- - 📜 [My Resume](https://mohamedawnallah.dev/resume.pdf). -->
-- I :heart: building and maintaining end-to-end data pipelines, ensuring data quality and accuracy, implementing data governance and security practices, and working with big data technologies
-- I'm an avid reader who enjoys delving deep into the stories and information contained within books :book:.
-- In my free time ⛱, I like to contribute to open source, learn about platform design and system architecture designs, pipelines that can help transform business into being data-powered, and make an impact at global scale.
+- I love building data engineering pipelines 🛠️📊🔍 and investigating the data patterns 📊🔍.
+- I'm an avid reader 📚📖🔍 who enjoys delving deep into the stories and information contained within books 🤓.
+- I like to contribute to open source 💻🛠️, learn about platform design📊 and system architecture designs💡, and make an impact at global scale🌍🦸‍♂️
+- I 💕 to meditate in the morning and workout in the afternoon 🧘‍♂️💪🏋️‍♀️🌞
 - 🌱 I’m currently learning about Machine Learning Reinforcement Learning Algorithms.
 - 💬 Ask me anything related to Data Engineering
 - 🙂 Pronouns: he/him
