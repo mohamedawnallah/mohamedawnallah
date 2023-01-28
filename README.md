@@ -49,6 +49,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Master Micro](https://www.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - Present |
 | [Holberton School](https://www.holbertonschool.com/) | Software Engineer Trainee | Jan 2023 - Present |
 | [Omdena](https://omdena.com/) | Machine Learning Engineer | Dec 2022 - Present |
 | [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - Present |
