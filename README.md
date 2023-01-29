@@ -17,7 +17,7 @@
 **[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)** 
 **[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)**
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
-
+**[<kbd> <br> Languages & Tools <br> </kbd>](#languages-&-tools)**
 
 ---
 
@@ -71,22 +71,19 @@
 | --- | --- | --- |
 | [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 
 
-## 👯 I’m looking to collaborate on
-
-* anything **data engineering** related projects
-* anything **machine learning** related projects 
-
-<b>*Languages And Tools*:</b>
-  
-<b> </b>  
-
+## Languages & Tools
 <p align="center">
   
 <a href="https://github.com/SamirPaul1"> 
 <img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="images/skills.svg" />
 </a>
 
-</p>  
+</p>
+
+## 👯 I’m looking to collaborate on
+
+* anything **data engineering** related projects
+* anything **machine learning** related projects 
 
 ![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mhmdawnallah&count_private=true&show_icons=true&theme=tokyonight)
 
