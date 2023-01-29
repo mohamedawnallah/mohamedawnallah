@@ -72,13 +72,13 @@
 | [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 
 
 ## Languages & Tools
-<p align="center">
+<!-- <p align="center">
   
 <a href="https://github.com/SamirPaul1"> 
 <img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="images/skills.svg" />
 </a>
 
-</p>
+</p> -->
 
 ## 👯 I’m looking to collaborate on
 
