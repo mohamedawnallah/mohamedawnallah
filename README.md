@@ -17,7 +17,7 @@
 **[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)** 
 **[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)**
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
-**[<kbd> <br> Languages & Tools <br> </kbd>](#languages-and-tools)**
+**[<kbd> <br> Languages & Tools <br> </kbd>](#languages-&-tools)**
 
 ---
 
@@ -71,7 +71,7 @@
 | --- | --- | --- |
 | [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 
 
-## Languages and Tools
+## Languages & Tools
 <p align="center">
   
 <a href="https://github.com/SamirPaul1"> 
