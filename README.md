@@ -76,6 +76,18 @@
 * anything **data engineering** related projects
 * anything **machine learning** related projects 
 
+<b>*Languages And Tools*:</b>
+  
+<b> </b>  
+
+<p align="center">
+  
+<a href="https://github.com/SamirPaul1"> 
+<img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="images/skills.svg" />
+</a>
+
+</p>  
+
 ![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mhmdawnallah&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdawnallah&hide=html&layout=compact&theme=tokyonight)](https://github.com/mhmdawnllah/github-readme-stats)
