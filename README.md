@@ -102,20 +102,3 @@
 ![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mhmdawnallah&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdawnallah&hide=html&layout=compact&theme=tokyonight)](https://github.com/mhmdawnllah/github-readme-stats)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
