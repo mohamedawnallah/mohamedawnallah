@@ -69,9 +69,9 @@
 | [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - Present
 
 ## Volunteering Experience
-| 🏢 Org | 💼 Role | ⏰ Duration |
-| --- | --- | --- |
-| [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 
+| 🏢 Org | 💼 Role | ⏰ Duration | ✨ Recommendation Letter |
+| --- | --- | --- | --- |
+| [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 | ![Recommendation Letter](https://bit.ly/3GuiRLV)
 
 ## Open Source Contributions
 
