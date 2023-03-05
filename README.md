@@ -62,12 +62,6 @@
 | [Upwork](https://www.upwork.com/) | Software Engineer Freelancer | Mar 2021 - Apr 2022 |
 | [Glitchfix](https://glitchfix.net/) | Mobile App Developer | May 2021 - Sep 2021 |
 
-## Open Source Contributions
-
-| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
-| --- | --- | --- | --- |
-| [![Github Repo](https://img.shields.io/badge/ceph-rgw-blue?style=flat-square)](https://github.com/ceph/ceph) | ![GitHub Repo stars](https://img.shields.io/github/stars/ceph/ceph?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/ceph/ceph?style=flat-square) | <https://github.com/ceph/ceph/pull/50282> 
-
 ## Mentorship Experience
 | 🏢 Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
@@ -78,6 +72,12 @@
 | 🏢 Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 
+
+## Open Source Contributions
+
+| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contribution |
+| --- | --- | --- | --- |
+| [![Github Repo](https://img.shields.io/badge/ceph-rgw-blue?style=flat-square)](https://github.com/ceph/ceph) | ![GitHub Repo stars](https://img.shields.io/github/stars/ceph/ceph?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/ceph/ceph?style=flat-square) | <https://github.com/ceph/ceph/pull/50282> 
 
 ## Languages & Tools
 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐚𝐮𝐠𝐞𝐬: Python, SQL</br>
