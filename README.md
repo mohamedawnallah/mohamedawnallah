@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.gif](./assets/banner.gif)
+![banner](https://user-images.githubusercontent.com/69568555/224010873-0812dd38-1e74-4d78-a039-5a66d21e3ef8.gif)
 
 
 <p align="center">
