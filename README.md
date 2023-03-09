@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](./images/github-banner.png)
+![banner.png](./assets/banner.png)
 
 
 <p align="center">
