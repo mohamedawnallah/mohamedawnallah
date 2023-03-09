@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](./assets/banner.png)
+![banner.gif](./assets/banner.gif)
 
 
 <p align="center">
