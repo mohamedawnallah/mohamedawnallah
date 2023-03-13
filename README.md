@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner](https://user-images.githubusercontent.com/69568555/224010873-0812dd38-1e74-4d78-a039-5a66d21e3ef8.gif)
+![Mohamed Awnallah GitHub Banner](https://user-images.githubusercontent.com/69568555/224833816-88af860b-a441-477f-9ed2-8b1e60a37a44.gif)
 
 
 <p align="center">
