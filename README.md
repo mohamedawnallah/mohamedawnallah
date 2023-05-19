@@ -75,9 +75,9 @@
 
 ## Open Source Contributions
 
-| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Pull Requests |
+| 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contributions |
 | --- | --- | --- | --- |
-| [![Github Repo](https://img.shields.io/badge/ceph-rgw-blue?style=flat-square)](https://github.com/ceph/ceph) | ![GitHub Repo stars](https://img.shields.io/github/stars/ceph/ceph?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/ceph/ceph?style=flat-square) | <https://github.com/ceph/ceph/pulls?q=+is%3Apr+author%3Amhmdawnallah+>
+| [![Github Repo](https://img.shields.io/badge/ceph-rgw-blue?style=flat-square)](https://github.com/ceph/ceph) | ![GitHub Repo stars](https://img.shields.io/github/stars/ceph/ceph?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/ceph/ceph?style=flat-square) | [Ceph Contributions](https://github.com/ceph/ceph/pulls?q=+is%3Apr+author%3Amhmdawnallah)
 
 ## Languages & Tools
 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐚𝐮𝐠𝐞𝐬: Python, SQL</br>
