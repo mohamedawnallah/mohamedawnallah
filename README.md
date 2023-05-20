@@ -51,10 +51,10 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Master Micro](https://www.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - Present |
 | [Holberton School](https://www.holbertonschool.com/) | Software Engineer Trainee | Jan 2023 - Present |
-| [Omdena](https://omdena.com/) | Machine Learning Engineer | Dec 2022 - Present |
 | [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - Present |
+| [Master Micro](https://www.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
+| [Omdena](https://omdena.com/) | Natural Langauge Processing Engineer | Dec 2022 - Apr 2023 |
 | [Banque Misr](https://www.banquemisr.com/) | Data Scientist Intern | Aug 2022 - Oct 2022 |
 | [Learn Data Engineering](https://learndataengineering.com/) | Data Engineering Apprentice | Jul 2022 - Aug 2022 |
 | [First Gulf Solutions](https://www.firstgulfsolutions.com/) | Automation Engineer Intern | Mar 2021 - Jun 2021 |
@@ -102,10 +102,7 @@
 
 </p> -->
 
-## 👯 I’m looking to collaborate on
-
-* anything **data engineering** related projects
-* anything **machine learning** related projects 
+🚀 I’m looking to collaborate on anything **data engineering** or **Search Data Engineering** related projects 
 
 ![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mhmdawnallah&count_private=true&show_icons=true&theme=tokyonight)
 
