@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-      <td><a href="https://github.com/mhmdawnallah"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+      <td><a href="https://github.com/mohamedawnallah"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
     <td><a href="https://twitter.com/mohamedawnallah"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="Twitter"></a></td>
     <td><a href="https://www.linkedin.com/in/mohamedawnallah"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
     <td><a href="mailto:mohamedmohey2352@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
@@ -77,9 +77,9 @@
 
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contributions |
 | --- | --- | --- | --- |
-| [![Github Repo](https://img.shields.io/badge/ceph-rgw-blue?style=flat-square)](https://github.com/ceph/ceph) | ![GitHub Repo stars](https://img.shields.io/github/stars/ceph/ceph?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/ceph/ceph?style=flat-square) | [Contributions](https://github.com/ceph/ceph/pulls?q=+is%3Apr+author%3Amhmdawnallah)
-| [![Github Repo](https://img.shields.io/badge/ihr-website-blue?style=flat-square)](https://github.com/InternetHealthReport/ihr-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternetHealthReport/ihr-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/InternetHealthReport/ihr-website?style=flat-square) | [Contributions](https://github.com/InternetHealthReport/ihr-website/pulls?q=is%3Apr+author%3Amhmdawnallah+)
-| [![Github Repo](https://img.shields.io/badge/ihr-internet_yellow_pages-blue?style=flat-square)](https://github.com/InternetHealthReport/internet-yellow-pages) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternetHealthReport/internet-yellow-pages?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/InternetHealthReport/internet-yellow-pages?style=flat-square) | [Contributions](https://github.com/InternetHealthReport/internet-yellow-pages/pulls?q=is%3Apr+author%3Amhmdawnallah+)
+| [![Github Repo](https://img.shields.io/badge/ceph-rgw-blue?style=flat-square)](https://github.com/ceph/ceph) | ![GitHub Repo stars](https://img.shields.io/github/stars/ceph/ceph?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/ceph/ceph?style=flat-square) | [Contributions](https://github.com/ceph/ceph/pulls?q=+is%3Apr+author%3Amohamedawnallah)
+| [![Github Repo](https://img.shields.io/badge/ihr-website-blue?style=flat-square)](https://github.com/InternetHealthReport/ihr-website) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternetHealthReport/ihr-website?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/InternetHealthReport/ihr-website?style=flat-square) | [Contributions](https://github.com/InternetHealthReport/ihr-website/pulls?q=is%3Apr+author%3Amohamedawnallah+)
+| [![Github Repo](https://img.shields.io/badge/ihr-internet_yellow_pages-blue?style=flat-square)](https://github.com/InternetHealthReport/internet-yellow-pages) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternetHealthReport/internet-yellow-pages?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/InternetHealthReport/internet-yellow-pages?style=flat-square) | [Contributions](https://github.com/InternetHealthReport/internet-yellow-pages/pulls?q=is%3Apr+author%3Amohamedawnallah+)
 
 ## Languages & Tools
 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐚𝐮𝐠𝐞𝐬: Python, SQL</br>
@@ -105,6 +105,6 @@
 ## Collaboration 🚀
 I’m looking to collaborate on anything **data engineering** or **Search Data Engineering** related projects 
 
-![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mhmdawnallah&count_private=true&show_icons=true&theme=tokyonight)
+![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mohamedawnallah&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdawnallah&hide=html&layout=compact&theme=tokyonight)](https://github.com/mhmdawnllah/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedawnallah&hide=html&layout=compact&theme=tokyonight)](https://github.com/mhmdawnllah/github-readme-stats)
