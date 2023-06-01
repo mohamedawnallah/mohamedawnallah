@@ -43,7 +43,6 @@
 - I 💕 to meditate in the morning and workout in the afternoon 🧘‍♂️💪🏋️‍♀️🌞
 - I’m currently learning about Machine Learning 🤖 and Reinforcement Learning Algorithms 🔁🧠📚🌱
 - Ask me anything related to Data Engineering 💬💡
-- Pronouns: he/him 🙋‍♂️
 - Fun fact: 🕵️ The world's largest pyramid is not in Egypt 🗿, but in Mexico 🌵🇲🇽
 
 ## Work Experience
