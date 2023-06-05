@@ -106,4 +106,4 @@ I’m looking to collaborate on anything **data engineering** or **Search Data E
 
 ![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mohamedawnallah&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedawnallah&hide=html&layout=compact&theme=tokyonight)](https://github.com/mhmdawnllah/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedawnallah&hide=html&layout=compact&theme=tokyonight)](https://github.com/mohamedawnallah/github-readme-stats)
