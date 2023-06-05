@@ -93,17 +93,6 @@
 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬: Linux, macOS, Windows</br>
 𝐂𝐨𝐦𝐦𝐚𝐧𝐝-𝐒𝐡𝐞𝐥𝐥 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠 𝐓𝐨𝐨𝐥𝐬: Bash Scripting</br>
 𝐎𝐭𝐡𝐞𝐫: Software Engineering, Data Modelling, Data Structures, Algorithms, Object-Oriented Programming, Networking fundamentals, System Design
-<!-- <p align="center">
-  
-<a href="https://github.com/SamirPaul1"> 
-<img alt="Python Java C++ C PHP JavaScript HTML CSS MySQL MongoDB Django ReactJS Git Docker Linux" loading="lazy" src="images/skills.svg" />
-</a>
-
-</p> -->
 
 ## Collaboration 🚀
 I’m looking to collaborate on anything **data engineering** or **Search Data Engineering** related projects 
-
-![Mohamed Awnallah's github stats](https://github-readme-stats.vercel.app/api?username=mohamedawnallah&count_private=true&show_icons=true&theme=tokyonight)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedawnallah&hide=html&layout=compact&theme=tokyonight)](https://github.com/mohamedawnallah/github-readme-stats)
