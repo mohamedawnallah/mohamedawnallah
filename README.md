@@ -50,6 +50,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Internet Health Report](https://ihr.iijlab.net/ihr/en-us/) | Open Source Data Engineer | May 2023 - Sep 2023 |
 | [Holberton School](https://www.holbertonschool.com/) | Software Engineer Trainee | Jan 2023 - Present |
 | [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - May 2023 |
 | [Master Micro](https://www.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
