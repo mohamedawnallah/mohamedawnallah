@@ -36,7 +36,7 @@
 
 ## About
 
-- I am a 2nd year computer science student 👨‍🎓 at Tanta University, Egypt 🏫🇪🇬.
+- I am a 3rd year computer science student 👨‍🎓 at Tanta University, Egypt 🏫🇪🇬.
 - I love building data engineering pipelines 🛠️💻 and investigating the data patterns 📊🔍.
 - I'm an avid reader 📚📖🔍 who enjoys delving deep into the stories and information contained within books 🤓.
 - I like to contribute to open source 💻🛠️, learn about platform design📊 and system architecture designs💡, and make an impact at global scale🌍🦸‍♂️
