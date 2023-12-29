@@ -41,7 +41,6 @@
 - I'm an avid reader 📚📖🔍 who enjoys delving deep into the stories and information contained within books 🤓.
 - I like to contribute to open source 💻🛠️, learn about platform design📊 and system architecture designs💡, and make an impact at global scale🌍🦸‍♂️
 - I 💕 to meditate in the morning and workout in the afternoon 🧘‍♂️💪🏋️‍♀️🌞
-- I’m currently learning about Machine Learning 🤖 and Reinforcement Learning Algorithms 🔁🧠📚🌱
 - Ask me anything related to Data Engineering 💬💡
 - Fun fact: 🕵️ The world's largest pyramid is not in Egypt 🗿, but in Mexico 🌵🇲🇽
 
