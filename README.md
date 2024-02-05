@@ -49,7 +49,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Holberton School](https://www.holbertonschool.com/) | Software Engineer Trainee | Jan 2023 - Present |
+| [Holberton School](https://www.holbertonschool.com/) | Software Engineer Trainee | Jan 2023 - Jan 2024 |
 | [Internet Health Report](https://github.com/internetHealthReport/) | Open Source Data Engineer - Google Summer of Code | May 2023 - Sep 2023 |
 | [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - May 2023 |
 | [Master Micro](https://www.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
