@@ -16,11 +16,13 @@
 **[<kbd> <br> Work Experience <br> </kbd>](#work-experience)** 
 **[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)** 
 **[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)**
+&nbsp;&nbsp;&nbsp;&nbsp;
 **[<kbd> <br> Training Experience <br> </kbd>](#training-experience)**
 &nbsp;&nbsp;&nbsp;&nbsp;
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 **[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)**
+
 **[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)**
 
 ---
