@@ -83,6 +83,6 @@
 | [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 | [Recommendation Letter](https://bit.ly/3GuiRLV)
 
 ## Quotes I Like
-- "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - [James Clear](https://en.wikipedia.org/wiki/James_Clear)https://en.wikipedia.org/wiki/James_Clear
-- “The cure for boredom is curiosity. There is no cure for curiosity.” - [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)https://en.wikipedia.org/wiki/Nir_Eyal
-- "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)https://en.wikipedia.org/wiki/Nir_Eyal
+- "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - [James Clear](https://en.wikipedia.org/wiki/James_Clear)
+- “The cure for boredom is curiosity. There is no cure for curiosity.” - [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)
+- "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)
