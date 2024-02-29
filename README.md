@@ -20,6 +20,7 @@
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
 
 **[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)**
+**[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)**
 
 ---
 
