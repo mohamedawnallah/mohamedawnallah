@@ -17,7 +17,7 @@
 **[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)** 
 **[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)**
 &nbsp;&nbsp;&nbsp;&nbsp;
-**[<kbd> <br> Training Experience <br> </kbd>](#training-experience)**
+**[<kbd> <br> Training <br> </kbd>](#training-experience)**
 &nbsp;&nbsp;&nbsp;&nbsp;
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
 &nbsp;&nbsp;&nbsp;&nbsp;
