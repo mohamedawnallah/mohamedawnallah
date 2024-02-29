@@ -81,19 +81,7 @@
 | --- | --- | --- | --- |
 | [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 | [Recommendation Letter](https://bit.ly/3GuiRLV)
 
-## Languages & Tools
-𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐚𝐮𝐠𝐞𝐬: Python, SQL</br>
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: PostgreSQL, MongoDB</br>
-𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬: Amazon Web Services</br>
-𝐃𝐚𝐭𝐚 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬: Kafka, Spark</br>
-𝐎𝐫𝐜𝐡𝐞𝐫𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐓𝐨𝐨𝐥𝐬: Airflow, Docker</br>
-𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬: Git, GitHub</br>
-𝐓𝐞𝐬𝐭𝐢𝐧𝐠 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬: Pytest, Unittest, Allure</br>
-𝐁𝐈 𝐭𝐨𝐨𝐥𝐬: Excel, Google Sheets, Tableau</br>
-𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬: FastAPI</br>
-𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬: Linux, macOS, Windows</br>
-𝐂𝐨𝐦𝐦𝐚𝐧𝐝-𝐒𝐡𝐞𝐥𝐥 𝐒𝐜𝐫𝐢𝐩𝐭𝐢𝐧𝐠 𝐓𝐨𝐨𝐥𝐬: Bash Scripting</br>
-𝐎𝐭𝐡𝐞𝐫: Software Engineering, Data Modelling, Data Structures, Algorithms, Object-Oriented Programming, Networking fundamentals, System Design
-
-## Collaboration 🚀
-I'm open to collaborating on guest writing articles about data engineering topics!
+## Quotes I Like
+"Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - [James Clear](https://en.wikipedia.org/wiki/James_Clear)https://en.wikipedia.org/wiki/James_Clear
+“The cure for boredom is curiosity. There is no cure for curiosity.” - [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)https://en.wikipedia.org/wiki/Nir_Eyal
+"Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - [Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal)https://en.wikipedia.org/wiki/Nir_Eyal
