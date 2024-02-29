@@ -16,6 +16,7 @@
 **[<kbd> <br> Work Experience <br> </kbd>](#work-experience)** 
 **[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)** 
 **[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)**
+**[<kbd> <br> Training Experience <br> </kbd>](#training-experience)**
 &nbsp;&nbsp;&nbsp;&nbsp;
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
 
@@ -50,15 +51,11 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Holberton School](https://www.holbertonschool.com/) | Software Engineer Trainee | Jan 2023 - Jan 2024 |
 | [Internet Health Report](https://github.com/internetHealthReport/) | Open Source Data Engineer - Google Summer of Code | May 2023 - Sep 2023 |
-| [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - May 2023 |
 | [Master Micro](https://www.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
 | [Omdena](https://omdena.com/) | Natural Langauge Processing Engineer | Dec 2022 - Apr 2023 |
 | [Banque Misr](https://www.banquemisr.com/) | Data Scientist Intern | Aug 2022 - Oct 2022 |
-| [Learn Data Engineering](https://learndataengineering.com/) | Data Engineering Apprentice | Jul 2022 - Aug 2022 |
 | [First Gulf Solutions](https://www.firstgulfsolutions.com/) | Automation Engineer Intern | Mar 2021 - Jun 2021 |
-| [Data With Danny](https://www.datawithdanny.com/) | Data Analyst Apprentice | Mar 2022 - Jun 2022
 | [Upwork](https://www.upwork.com/) | Software Engineer Freelancer | Mar 2021 - Apr 2022 |
 | [Glitchfix](https://glitchfix.net/) | Mobile App Developer | May 2021 - Sep 2021 |
 
@@ -76,6 +73,16 @@
 | --- | --- | --- |
 | [Adplist](https://adplist.org/members/mohamed-awnallah) | Data Engineering Mentee | Jul 2022 - Present
 | [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - Present
+
+## Training Experience
+
+
+| 🏢 Company | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Holberton School](https://www.holbertonschool.com/) | Software Engineer Trainee | Jan 2023 - Jan 2024 |
+| [Mckinsey](https://www.mckinsey.com/forward/overview) | McKinsey's Forward Trainee | Nov 2022 - May 2023 |
+| [Learn Data Engineering](https://learndataengineering.com/) | Data Engineering Apprentice | Jul 2022 - Aug 2022 |
+| [Data With Danny](https://www.datawithdanny.com/) | Data Analyst Apprentice | Mar 2022 - Jun 2022
 
 ## Volunteering Experience
 | 🏢 Org | 💼 Role | ⏰ Duration | ✨ Recommendation Letter |
