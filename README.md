@@ -96,3 +96,4 @@
 - "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
 - “The cure for boredom is curiosity. There is no cure for curiosity.” - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
 - "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
+- "Theory and practice sometimes clash. And when that happens, theory loses. Every single time." - ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds))
