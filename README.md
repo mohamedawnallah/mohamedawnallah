@@ -54,7 +54,7 @@
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Internet Health Report](https://github.com/internetHealthReport/) | Open Source Data Engineer - Google Summer of Code | May 2023 - Sep 2023 |
+| [Internet Health Report](https://github.com/internetHealthReport/) | Open Source Data Engineer (Google Summer of Code) | May 2023 - Sep 2023 |
 | [Master Micro](https://www.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
 | [Omdena](https://omdena.com/) | Natural Langauge Processing Engineer | Dec 2022 - Apr 2023 |
 | [Banque Misr](https://www.banquemisr.com/) | Data Scientist Intern | Aug 2022 - Oct 2022 |
