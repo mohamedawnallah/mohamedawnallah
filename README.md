@@ -74,8 +74,8 @@
 ## Mentorship Experience
 | 🏢 Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Adplist](https://adplist.org/members/mohamed-awnallah) | Data Engineering Mentee | Jul 2022 - Present
-| [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - Present
+| [Adplist](https://adplist.org/members/mohamed-awnallah) | Data Engineering Mentee | Jul 2022 - July 2023
+| [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - July 2023
 
 ## Training Experience
 
