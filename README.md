@@ -22,6 +22,8 @@
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
 &nbsp;&nbsp;&nbsp;&nbsp;
 <br><br>
+**[<kbd> <br> Awards <br> </kbd>](#awards)**
+&nbsp;&nbsp;&nbsp;&nbsp;
 **[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)**
 &nbsp;&nbsp;&nbsp;&nbsp;
 **[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)**
@@ -91,6 +93,12 @@
 | 🏢 Org | 💼 Role | ⏰ Duration | ✨ Recommendation Letter |
 | --- | --- | --- | --- |
 | [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 | [Recommendation Letter](https://bit.ly/3GuiRLV)
+
+## Awards
+
+| 🏆 Award | 📅 Year | 🏅 Category | 🎁 Prize | 🌟 Description |
+| --- | --- | --- | --- | --- |
+| [Runner-up, RIPE 87 Article Competition](https://ripe87.ripe.net/) | 2023 | Technical Writing | Apple Watch | Recognized for crafting an exceptional article, "[Unlocking the Power of Internet Alarms Correlation and Aggregated Reports](https://labs.ripe.net/author/mohamedawnallah/unlocking-the-power-of-internet-alarms-correlation-and-aggregated-reports/)", showcasing groundbreaking contributions made during Google Summer of Code 2023 at Internet Health Report (IHR), earning distinction as one of the top two entries in the prestigious RIPE 87 Article Competition. |
 
 ## Quotes I Like
 - "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
