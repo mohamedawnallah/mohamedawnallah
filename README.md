@@ -20,6 +20,7 @@
 
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
+<span>[<kbd> <br> Education <br> </kbd>](#awards)</span>
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)</span>
 <span>[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)</span>
 
