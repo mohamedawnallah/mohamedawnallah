@@ -17,9 +17,9 @@
 <span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
 <span>[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
+
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
-
 <span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)</span>
 <span>[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)</span>
 
