@@ -12,21 +12,15 @@
 
 ---
 
-**[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@mohamedawnallah)** 
-**[<kbd> <br> Work Experience <br> </kbd>](#work-experience)** 
-**[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)** 
-**[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)**
-&nbsp;&nbsp;&nbsp;&nbsp;
-**[<kbd> <br> Training <br> </kbd>](#training-experience)**
-&nbsp;&nbsp;&nbsp;&nbsp;
-**[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
-&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br>
-**[<kbd> <br> Awards <br> </kbd>](#awards)**
-&nbsp;&nbsp;&nbsp;&nbsp;
-**[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)**
-&nbsp;&nbsp;&nbsp;&nbsp;
-**[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)**
+<span>[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@mohamedawnallah)</span>
+<span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
+<span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
+<span>[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)</span>
+<span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
+<span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
+<span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
+<span>[<kbd> <br> Languages & Tools <br> </kbd>](#languages--tools)</span>
+<span>[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)</span>
 
 ---
 
