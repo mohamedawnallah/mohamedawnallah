@@ -50,7 +50,7 @@
 ## Work Experience
 
 
-| 🏢 Company | 💼 Role | ⏰ Duration |
+| 🏢 Company / 💻 Project | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Internet Health Report](https://github.com/internetHealthReport/) | Open Source Data Engineer (Google Summer of Code) | May 2023 - Sep 2023 |
 | [Master Micro](https://adt.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
