@@ -95,7 +95,7 @@
 
 | 🏆 Award | 📅 Year | 🏅 Category | 🎁 Prize | 🌟 Description |
 | --- | --- | --- | --- | --- |
-| [Runner-up, RIPE 87 Article Competition](https://ripe87.ripe.net/) | 2023 | Technical Writing, Open Source | Apple Watch | Recognized for crafting an exceptional article, [Unlocking the Power of Internet Alarms Correlation and Aggregated Reports](https://labs.ripe.net/author/mohamedawnallah/unlocking-the-power-of-internet-alarms-correlation-and-aggregated-reports/), showcasing groundbreaking contributions made during Google Summer of Code 2023 at Internet Health Report (IHR), earning distinction as one of the top two entries in the prestigious RIPE 87 Article Competition. |
+| [Runner-up, RIPE 87 Article Competition](https://ripe87.ripe.net/) | 2023 | Technical Writing, Open Source | Apple Watch | Recognized for crafting an artifcat article, [Unlocking the Power of Internet Alarms Correlation and Aggregated Reports](https://labs.ripe.net/author/mohamedawnallah/unlocking-the-power-of-internet-alarms-correlation-and-aggregated-reports/), showcasing groundbreaking contributions made during Google Summer of Code 2023 at Internet Health Report (IHR), earning distinction as one of the top two entries in the prestigious RIPE 87 Article Competition. |
 
 ## Quotes I Like
 - "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
