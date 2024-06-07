@@ -39,13 +39,13 @@
 
 ## About
 
-- I am a 3rd year computer science student 👨‍🎓 at Tanta University, Egypt 🏫🇪🇬.
-- I love building data engineering pipelines 🛠️💻 and investigating the data patterns 📊🔍.
-- I'm an avid reader 📚📖🔍 who enjoys delving deep into the stories and information contained within books 🤓.
-- I like to contribute to open source 💻🛠️, learn about platform design📊, system architecture designs💡, and make an impact at global scale🌍🦸‍♂️
-- I 💕 to meditate in the morning and workout in the afternoon 🧘‍♂️💪🏋️‍♀️🌞
-- Ask me anything related to Data Engineering 💬💡
-- Fun fact: 🕵️ The world's largest pyramid is not in Egypt 🗿, but in Mexico 🌵🇲🇽
+- 👨‍🎓 I am a 3rd-year computer science student at Tanta University, Egypt.
+- 🔍 Passionate about building robust data engineering pipelines and uncovering fascinating data patterns.
+- 🚀 Avid reader who loves immersing myself in books and always eager to learn something new. 
+- 🙏 Enjoy contributing to open-source projects and giving back to the community.
+- 💡 Interested in platform design and system architecture, aiming to make a significant impact on a global scale.
+- 💬 Feel free to ask me anything related to Data Engineering!
+- 🍑 Fun Fact: I eat peach non-stop if it is in front of me!
 
 ## Work Experience
 
