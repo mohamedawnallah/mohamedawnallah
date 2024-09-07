@@ -52,8 +52,8 @@
 
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Open Source Data Engineer Intern (at [LND](https://github.com/lightningnetwork/lnd)) | May 2024 - Aug 2024 |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Open Source Data Engineer Intern (at [IHR](https://github.com/internetHealthReport/)) | May 2023 - Sep 2023 |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Open Source Data Engineer Intern @ [LND](https://github.com/lightningnetwork/lnd) | May 2024 - Aug 2024 |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Open Source Data Engineer Intern at [IHR](https://github.com/internetHealthReport/) | May 2023 - Sep 2023 |
 | [Master Micro](https://adt.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
 | [Omdena](https://omdena.com/) | Natural Langauge Processing Engineer | Dec 2022 - Apr 2023 |
 | [Banque Misr](https://www.banquemisr.com/) | Data Scientist Intern | Aug 2022 - Oct 2022 |
