@@ -52,6 +52,7 @@
 
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [CNCF](https://www.cncf.io/) | Open Source Data Engineer Intern @ [Karmada](https://github.com/karmada-io/karmada/) | Sep 2024 - Present |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Open Source Data Engineer Intern @ [LND](https://github.com/lightningnetwork/lnd) | May 2024 - Aug 2024 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Open Source Data Engineer Intern @ [IHR](https://github.com/internetHealthReport/) | May 2023 - Sep 2023 |
 | [Master Micro](https://adt.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
