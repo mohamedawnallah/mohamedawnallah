@@ -78,7 +78,7 @@
 ## Mentorship Experience
 | 🏢 Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Linux Foundation](https://lfx.linuxfoundation.org/) | Linux Foundation Mentee | Sep 2024 - Oct 2024
+| [Linux Foundation](https://lfx.linuxfoundation.org/) | Linux Foundation Mentee | Sep 2024 - Nov 2024
 | [Adplist](https://adplist.org/members/mohamed-awnallah) | Data Engineering Mentee | Jul 2022 - July 2023
 | [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - July 2023
 
