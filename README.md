@@ -28,8 +28,7 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/mohamedawnallah"><img src="https://img.shields.io/github/followers/sayannath.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-    <td><a href="https://twitter.com/mohamedawnallah"><img src="https://img.shields.io/twitter/follow/sayannath2350?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="https://twitter.com/mohamedawnallah"><img src="https://img.shields.io/twitter/follow/mohamedawnallah?label=Twitter&style=social" alt="Twitter"></a></td>
     <td><a href="https://www.linkedin.com/in/mohamedawnallah"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
   </tr>
 </table>
