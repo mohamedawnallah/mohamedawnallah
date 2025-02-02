@@ -12,7 +12,7 @@
 
 ---
 
-<span>[<kbd> <br> Blogs <br> </kbd>](https://medium.com/@mohamedawnallah)</span>
+<span>[<kbd> <br> Blog <br> </kbd>](https://medium.com/@mohamedawnallah)</span>
 <span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
 <span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
 <span>[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)</span>
