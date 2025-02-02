@@ -34,8 +34,6 @@
 - 🔍 Passionate about building robust data engineering pipelines and uncovering fascinating data patterns.
 - 🚀 Avid reader who loves immersing myself in books and always eager to learn something new. 
 - 🙏 Enjoy contributing to open-source projects and giving back to the community.
-- 💡 Interested in platform design and system architecture, aiming to make a significant impact on a global scale.
-- 💬 Feel free to ask me anything related to Data Engineering!
 - 🍑 Fun Fact: I eat peach non-stop if it is in front of me!
 - 💼 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/mohamedawnallah).
 
