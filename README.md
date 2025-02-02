@@ -26,13 +26,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td><a href="https://twitter.com/mohamedawnallah"><img src="https://img.shields.io/twitter/follow/mohamedawnallah?label=Twitter&style=social" alt="Twitter"></a></td>
-    <td><a href="https://www.linkedin.com/in/mohamedawnallah"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
-  </tr>
-</table>
-
 </div>
 
 ## About
@@ -44,6 +37,7 @@
 - 💡 Interested in platform design and system architecture, aiming to make a significant impact on a global scale.
 - 💬 Feel free to ask me anything related to Data Engineering!
 - 🍑 Fun Fact: I eat peach non-stop if it is in front of me!
+- 💼 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/mohamedawnallah).
 
 ## Work Experience
 
