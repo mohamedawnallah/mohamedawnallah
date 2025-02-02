@@ -32,8 +32,9 @@
 
 - 👨‍🎓 I am a final year undergraduate computer science student at Tanta University, Egypt.
 - 🔍 Passionate about Data Engineering, Computer Science, Open Source, and discovering fascinating data patterns.
-- ❤️ Avid reader who loves immersing myself in books and always eager to learn something new. 
-- 🙏 Enjoy contributing to open-source products and giving back to the community.
+- ❤️ Avid reader who loves immersing myself in books and always eager to learn something new.
+- 🚀 My core career values are working on products that brings freedom, innovation, and accessibility to billions and beyond.
+- 🙏 Enjoy contributing to open-source products that are aligned with my core career values and giving back to the community.
 - 🍑 Fun Fact: I eat peach non-stop if it is in front of me!
 - 💼 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/mohamedawnallah).
 
