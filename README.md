@@ -1,7 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![Mohamed Awnallah GitHub Banner](https://user-images.githubusercontent.com/69568555/224833816-88af860b-a441-477f-9ed2-8b1e60a37a44.gif)
-
+![Mohamed Awnallah GitHub Banner](https://github.com/user-attachments/assets/aad9ffc2-03a7-4801-b5d7-c9eb7edd4b7b)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+There+👋,+It's+Mohamed;+An+Open+Source+Contributor+🌟;A+Data+Engineer+💻;An+Avid+Reader+📖;">
