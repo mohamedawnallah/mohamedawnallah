@@ -14,7 +14,7 @@
 <span>[<kbd> <br> Blog <br> </kbd>](https://medium.com/@mohamedawnallah)</span>
 <span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
 <span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
-<span>[<kbd> <br> Mentorship <br> </kbd>](#mentorship-experience)</span>
+<span>[<kbd> <br> Menteeship <br> </kbd>](#menteeship-experience)</span>
 <span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
 
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
@@ -67,9 +67,10 @@
 | [![Github Repo](https://img.shields.io/badge/ihr-internet_yellow_pages-blue?style=flat-square)](https://github.com/InternetHealthReport/internet-yellow-pages) | ![GitHub Repo stars](https://img.shields.io/github/stars/InternetHealthReport/internet-yellow-pages?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/InternetHealthReport/internet-yellow-pages?style=flat-square) | [Issues](https://github.com/InternetHealthReport/internet-yellow-pages/issues?q=+is%3Aissue+author%3Amohamedawnallah+) \| [Pull Requests](https://github.com/InternetHealthReport/internet-yellow-pages/pulls?q=+is%3Apr+author%3Amohamedawnallah+) \| [Discussions](https://github.com/orgs/InternetHealthReport/discussions?discussions_q=author%3Amohamedawnallah)
 | [![Github Repo](https://img.shields.io/badge/lnd-Distributed_Mission_Control-blue?style=flat-square)](https://github.com/ziggie1984/Distributed-Mission-Control-for-LND) | ![GitHub Repo stars](https://img.shields.io/github/stars/ziggie1984/Distributed-Mission-Control-for-LND?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/ziggie1984/Distributed-Mission-Control-for-LND?style=flat-square) | [Issues](https://github.com/ziggie1984/Distributed-Mission-Control-for-LND/issues?q=+is%3Aissue+author%3Amohamedawnallah+) \| [Pull Requests](https://github.com/ziggie1984/Distributed-Mission-Control-for-LND/pulls?q=+is%3Apr+author%3Amohamedawnallah+) \| [Discussions](https://github.com/users/ziggie1984/projects/1)
 
-## Mentorship Experience
+## Menteeship Experience
 | 🏢 Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [MentorCruise](https://mentorcruise.com/) | Career Vision Strategy Mentee | Nov 2024 - Dec 2024
 | [Linux Foundation](https://www.linuxfoundation.org/) | Linux Foundation Mentee | Sep 2024 - Nov 2024
 | [Adplist](https://adplist.org/members/mohamed-awnallah) | Data Engineering Mentee | Jul 2022 - July 2023
 | [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - July 2023
