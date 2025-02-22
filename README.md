@@ -15,7 +15,7 @@
 <span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
 <span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
 <span>[<kbd> <br> Menteeship <br> </kbd>](#menteeship-experience)</span>
-<span>[<kbd> <br> Training <br> </kbd>](#training-experience)</span>
+<span>[<kbd> <br> Trainee <br> </kbd>](#trainee-experience)</span>
 
 <span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
 <span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
@@ -54,7 +54,6 @@
 | [Glitchfix](https://glitchfix.net/) | Mobile App Developer | May 2021 - Sep 2021 |
 
 ## Open Source Contributions
-
 | 🎁 Repo | ⭐ Stars | 📚 Forks | ✨ Contributions |
 | --- | --- | --- | --- |
 | [![Github Repo](https://img.shields.io/badge/prometheus-prometheus-blue?style=flat-square)](https://github.com/prometheus/prometheus) | ![GitHub Repo stars](https://img.shields.io/github/stars/prometheus/prometheus?style=flat-square) | ![GitHub forks](https://img.shields.io/github/forks/prometheus/prometheus?style=flat-square) | [Issues](https://github.com/prometheus/prometheus/issues?q=+is%3Aissue+author%3Amohamedawnallah) \| [Pull Requests](https://github.com/prometheus/prometheus/pulls?q=+is%3Apr+author%3Amohamedawnallah) \| [Discussions](https://github.com/prometheus/prometheus/discussions?discussions_q=+author%3Amohamedawnallah)
@@ -77,9 +76,7 @@
 | [Adplist](https://adplist.org/members/mohamed-awnallah) | Data Engineering Mentee | Jul 2022 - July 2023
 | [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - July 2023
 
-## Training Experience
-
-
+## Trainee Experience
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [Holberton School](https://www.holbertonschool.com/) | Software Engineer Trainee | Jan 2023 - Jan 2024 |
@@ -93,7 +90,6 @@
 | [Kids First Initiative](https://www.kidsfirstinitiative.org/) | Web Developer  | Sep 2021 - Feb 2022 | [Recommendation Letter](https://bit.ly/3GuiRLV)
 
 ## Awards
-
 | 🏆 Award | 📅 Year | 🏅 Category | 🎁 Prize | 🌟 Description |
 | --- | --- | --- | --- | --- |
 | [Runner-up, RIPE 87 Article Competition](https://ripe87.ripe.net/) | 2023 | Technical Writing, Open Source | Apple Watch | Recognized for crafting an artifact article, [Unlocking the Power of Internet Alarms Correlation and Aggregated Reports](https://labs.ripe.net/author/mohamedawnallah/unlocking-the-power-of-internet-alarms-correlation-and-aggregated-reports/), showcasing groundbreaking contributions made during Google Summer of Code 2023 at Internet Health Report (IHR), earning the distinction as one of the top two entries in RIPE 87 Article Competition. |
