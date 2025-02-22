@@ -71,7 +71,9 @@
 | 🏢 Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | [MentorCruise](https://mentorcruise.com/) | Career Vision Strategy Mentee | Nov 2024 - Dec 2024
-| [Linux Foundation](https://www.linuxfoundation.org/) | Linux Foundation Mentee | Sep 2024 - Nov 2024
+| [Linux Foundation (LFX)](https://www.linuxfoundation.org/) | LFX Mentee | Sep 2024 - Nov 2024
+| [Summer of Bitcoin (SoB)](https://www.summerofbitcoin.org/) | SoB Mentee | May 2024 - Aug 2024
+| [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) | GSoC Mentee | May 2023 - Sep 2023
 | [Adplist](https://adplist.org/members/mohamed-awnallah) | Data Engineering Mentee | Jul 2022 - July 2023
 | [Mentoring Club](https://www.mentoring-club.com/) | Data Engineering Mentee | Jun 2022 - July 2023
 
