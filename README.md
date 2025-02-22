@@ -6,22 +6,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi+There+👋,+It's+Mohamed;+An+Open+Source+Contributor+🌟;A+Data+Engineer+💻;An+Avid+Reader+📖;">
 </p>
 
-
 <div align="center">
 
 ---
 
-<span>[<kbd> <br> Blog <br> </kbd>](https://medium.com/@mohamedawnallah)</span>
-<span>[<kbd> <br> Work Experience <br> </kbd>](#work-experience)</span>
-<span>[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)</span>
-<span>[<kbd> <br> Menteeship <br> </kbd>](#menteeship-experience)</span>
-<span>[<kbd> <br> Trainee <br> </kbd>](#trainee-experience)</span>
+<table align="center" border="0">
+<tr border="0">
+<td align="center"><a href="#work-experience"><img src="https://img.shields.io/badge/Work-Experience-blue?style=for-the-badge"/></a></td>
+<td align="center"><a href="#open-source-contributions"><img src="https://img.shields.io/badge/Open%20Source-Contributions-green?style=for-the-badge"/></a></td>
+<td align="center"><a href="#"><img src="https://img.shields.io/badge/Writing-gray?style=for-the-badge"/></a></td>
+<td align="center"><a href="#menteeship-experience"><img src="https://img.shields.io/badge/Menteeship-purple?style=for-the-badge"/></a></td>
+<td align="center"><a href="#trainee-experience"><img src="https://img.shields.io/badge/Trainee-orange?style=for-the-badge"/></a></td>
+</tr>
+</table>
 
-<span>[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)</span>
-<span>[<kbd> <br> Awards <br> </kbd>](#awards)</span>
-<span>[<kbd> <br> Spoken Languages <br> </kbd>](#spoken-languages)</span>
-<span>[<kbd> <br> Education <br> </kbd>](#education)</span>
-<span>[<kbd> <br> Quotes I Like <br> </kbd>](#quotes-i-like)</span>
+<table align="center" border="0">
+<tr border="0">
+<td align="center"><a href="#volunteering-experience"><img src="https://img.shields.io/badge/Volunteering-red?style=for-the-badge"/></a></td>
+<td align="center"><a href="#awards"><img src="https://img.shields.io/badge/Awards-yellow?style=for-the-badge"/></a></td>
+<td align="center"><a href="#spoken-languages"><img src="https://img.shields.io/badge/Spoken%20Languages-lightblue?style=for-the-badge"/></a></td>
+<td align="center"><a href="#education"><img src="https://img.shields.io/badge/Education-lightgreen?style=for-the-badge"/></a></td>
+<td align="center"><a href="#quotes-i-like"><img src="https://img.shields.io/badge/Quotes%20I%20Like-pink?style=for-the-badge"/></a></td>
+</tr>
+</table>
 
 ---
 
