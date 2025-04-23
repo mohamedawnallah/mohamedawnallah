@@ -43,7 +43,6 @@
 - 🚀 My core career values are working on products that brings freedom, innovation, and accessibility to billions and beyond.
 - 🙏 Enjoy contributing to open-source products that are aligned with my core career values and giving back to the community.
 - 🍑 Fun Fact: I eat peaches non-stop, yet only if they're in front of me!
-- 💼 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/mohamedawnallah).
 
 ## Work Experience
 
