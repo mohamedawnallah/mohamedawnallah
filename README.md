@@ -108,6 +108,7 @@
 
 
 ## Quotes I Like
+- “Thoughts are real, physical things that occupy mental real estate. Moment by moment, every day, you are changing the structure of your brain through your thinking. When we hope, it is an activity of the mind that changes the structure of our brain in a positive and normal direction.”  - ([Caroline Leaf](https://drleaf.com/) - Switch on Your Brain)
 - "My mentor, Wahei Takeda, used to say, 'I think gratitude works like miracles. If you pour on gratitude, everything melts, especially bad feelings.'" - ([Ken Honda](https://kenhonda.com/) - Happy Money)
 - "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
 - “The cure for boredom is curiosity. There is no cure for curiosity.” - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
