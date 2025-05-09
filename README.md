@@ -49,7 +49,6 @@
 
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Lightning Labs](https://lightning.engineering/) | Open Source Software Engineer Intern @ [LightningLabs](https://github.com/lightninglabs) and [LND](https://github.com/lightningnetwork/lnd)  | May 2025 - Present |
 | [Linux Foundation](https://www.linuxfoundation.org/) ([CNCF](https://www.cncf.io/)) | Open Source Software Engineer Intern (Cloud) @ [Karmada](https://github.com/karmada-io/karmada/) | Sep 2024 - Nov 2024 |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Open Source Data Engineer Intern @ [LND](https://github.com/lightningnetwork/lnd) | May 2024 - Aug 2024 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Open Source Data Engineer Intern @ [IHR](https://github.com/internetHealthReport/) | May 2023 - Sep 2023 |
