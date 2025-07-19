@@ -107,6 +107,12 @@
 | 🇺🇸 English         | 💼 Professional          |
 
 
+## Education
+
+| Degree 🎓            | Major 💻          | University 🏫     | Location 📍   | Graduation Date 🗓️ |
+|---------------------|------------------|------------------|--------------|-------------------|
+| Bachelor of Science | Computer Science | [Tanta University](https://tanta.edu.eg/) | Tanta, Egypt | July 2025         |
+
 ## Quotes I Like
 - “Thoughts are real, physical things that occupy mental real estate. Moment by moment, every day, you are changing the structure of your brain through your thinking. When we hope, it is an activity of the mind that changes the structure of our brain in a positive and normal direction.”  - ([Caroline Leaf](https://drleaf.com/) - Switch on Your Brain)
 - "My mentor, Wahei Takeda, used to say, 'I think gratitude works like miracles. If you pour on gratitude, everything melts, especially bad feelings.'" - ([Ken Honda](https://kenhonda.com/) - Happy Money)
