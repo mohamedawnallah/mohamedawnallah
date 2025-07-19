@@ -109,7 +109,7 @@
 
 ## Education
 
-| Degree 🎓            | Major 💻          | University 🏫     | Location 📍   | Graduation Date 🗓️ |
+| 🎓 Degree           | 💻 Major         | 🏫 University     | 📍 Location   | 🗓️ Graduation Date |
 |---------------------|------------------|------------------|--------------|-------------------|
 | Bachelor of Science | Computer Science | [Tanta University](https://tanta.edu.eg/) | Tanta, Egypt | July 2025         |
 
