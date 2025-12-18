@@ -48,8 +48,8 @@
 
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Linux Foundation](https://www.linuxfoundation.org/) ([CNCF](https://www.cncf.io/)) | Linux Foundation Mentee @ [Karmada](https://github.com/karmada-io/karmada/) | Sep 2024 - Nov 2024 |
-| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Summer of Bitcoin Mentee @ [LND](https://github.com/lightningnetwork/lnd) | May 2024 - Aug 2024 |
+| [Linux Foundation](https://www.linuxfoundation.org/) ([CNCF](https://www.cncf.io/)) | Linux Foundation Mentorship @ [Karmada](https://github.com/karmada-io/karmada/) | Sep 2024 - Nov 2024 |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Summer of Bitcoin @ [LND](https://github.com/lightningnetwork/lnd) | May 2024 - Aug 2024 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google Summer of Code 2023 @ [IHR](https://github.com/internetHealthReport/) | May 2023 - Sep 2023 |
 | [Master Micro](https://adt.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
 | [Omdena](https://omdena.com/) | Natural Langauge Processing Engineer | Dec 2022 - Apr 2023 |
