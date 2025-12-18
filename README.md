@@ -99,10 +99,10 @@
 | [Runner-up, RIPE 87 Article Competition](https://ripe87.ripe.net/) | 2023 | Technical Writing, Open Source | Apple Watch | Recognized for crafting an artifact article, [Unlocking the Power of Internet Alarms Correlation and Aggregated Reports](https://labs.ripe.net/author/mohamedawnallah/unlocking-the-power-of-internet-alarms-correlation-and-aggregated-reports/), showcasing groundbreaking contributions made during Google Summer of Code 2023 at Internet Health Report (IHR), earning the distinction as one of the top two entries in RIPE 87 Article Competition. |
 
 ## Spoken Languages
-| 🌐 Language         | 🗣️ Proficiency Level     |
-| ------------------- | ------------------------ |
-| 🇪🇬 Arabic          | 🏅 Native                |
-| 🇺🇸 English         | 💼 Professional          |
+
+| 🇪🇬 Arabic | 🇺🇸 English     |
+| ---------- | --------------- |
+| 🏅 Native  | 💼 Professional |
 
 
 ## Education
