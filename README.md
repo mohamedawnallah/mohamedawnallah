@@ -48,6 +48,7 @@
 
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google Summer of Code 2025 @ [Apache Beam](https://github.com/apache/beam) | May 2025 - Oct 2025 |
 | [Linux Foundation](https://www.linuxfoundation.org/) ([CNCF](https://www.cncf.io/)) | Linux Foundation Mentorship @ [Karmada](https://github.com/karmada-io/karmada/) | Sep 2024 - Nov 2024 |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Bitcoin Development @ Summer of Bitcoin | May 2024 - Aug 2024 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google Summer of Code 2023 @ [IHR](https://github.com/internetHealthReport/) | May 2023 - Sep 2023 |
