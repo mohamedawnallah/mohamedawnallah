@@ -26,7 +26,6 @@
 <td align="center"><a href="#awards"><img src="https://img.shields.io/badge/Awards-yellow?style=for-the-badge"/></a></td>
 <td align="center"><a href="#spoken-languages"><img src="https://img.shields.io/badge/Spoken%20Languages-lightblue?style=for-the-badge"/></a></td>
 <td align="center"><a href="#education"><img src="https://img.shields.io/badge/Education-lightgreen?style=for-the-badge"/></a></td>
-<td align="center"><a href="#quotes-i-like"><img src="https://img.shields.io/badge/Quotes%20I%20Like-pink?style=for-the-badge"/></a></td>
 </tr>
 </table>
 
@@ -110,14 +109,3 @@
 | 🎓 Degree           | 💻 Major         | 🏫 University     | 📍 Location   | 🗓️ Graduation Date |
 |---------------------|------------------|------------------|--------------|-------------------|
 | Bachelor of Science | Computer Science | [Tanta University](https://tanta.edu.eg/) | Tanta, Egypt | July 2025         |
-
-## Quotes I Like
-- “Thoughts are real, physical things that occupy mental real estate. Moment by moment, every day, you are changing the structure of your brain through your thinking. When we hope, it is an activity of the mind that changes the structure of our brain in a positive and normal direction.”  - ([Caroline Leaf](https://drleaf.com/) - Switch on Your Brain)
-- "My mentor, Wahei Takeda, used to say, 'I think gratitude works like miracles. If you pour on gratitude, everything melts, especially bad feelings.'" - ([Ken Honda](https://kenhonda.com/) - Happy Money)
-- "Progress requires unlearning. Becoming the best version of yourself requires you to continuously edit your beliefs, and to upgrade and expand your identity." - ([James Clear](https://en.wikipedia.org/wiki/James_Clear) - Atomic Habits)
-- “The cure for boredom is curiosity. There is no cure for curiosity.” - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
-- "Most people don’t want to acknowledge the uncomfortable truth that distraction is always an unhealthy escape from reality." - ([Nir Eyal](https://en.wikipedia.org/wiki/Nir_Eyal) - Indistractable)
-- "Theory and practice sometimes clash. And when that happens, theory loses. Every single time." - ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
-- "Information flow is what the Internet is about. Information sharing is power. If you don't share your ideas, smart people can't do anything about them, and you'll remain anonymous and powerless." ([Vint Cerf](https://en.wikipedia.org/wiki/Vint_Cerf) - The Father of the Internet)
-- "I often compare open source to science. To where science took this whole notion of developing ideas in the open and improving on other peoples' ideas and making it into what science is today and the incredible advances that we have had. And I compare that to witchcraft and alchemy, where openness was something you didn't do." ([Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) - Creator of Linux & Git)
-- "Don’t take criticism from someone you wouldn’t take advice from." ([Jim Kwik](https://en.wikipedia.org/wiki/Jim_Kwik) - Limitless)
