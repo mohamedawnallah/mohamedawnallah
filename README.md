@@ -47,10 +47,10 @@
 
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google Summer of Code 2025 @ [Apache Beam](https://github.com/apache/beam) | May 2025 - Oct 2025 |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google Summer of Code @ [Apache Beam](https://github.com/apache/beam) | May 2025 - Oct 2025 |
 | [Linux Foundation](https://www.linuxfoundation.org/) ([CNCF](https://www.cncf.io/)) | Linux Foundation Mentorship @ [Karmada](https://github.com/karmada-io/karmada/) | Sep 2024 - Nov 2024 |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Bitcoin Development @ Summer of Bitcoin | May 2024 - Aug 2024 |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google Summer of Code 2023 @ [IHR](https://github.com/internetHealthReport/) | May 2023 - Sep 2023 |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google Summer of Code @ [IHR](https://github.com/internetHealthReport/) | May 2023 - Sep 2023 |
 | [Master Micro](https://adt.master-micro.com/) | Software Engineer Intern (Python) | Jan 2023 - May 2023 |
 | [Omdena](https://omdena.com/) | Natural Langauge Processing Engineer | Dec 2022 - Apr 2023 |
 | [Banque Misr](https://www.banquemisr.com/) | Data Scientist Intern | Aug 2022 - Oct 2022 |
