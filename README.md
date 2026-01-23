@@ -35,7 +35,6 @@
 
 ## About
 
-- 👨‍🎓 I am a recent computer science graduate from Tanta University, Egypt.
 - 🔍 Passionate about Data Engineering, Computer Science, Open Source, and discovering fascinating data patterns.
 - 💖 Avid reader who loves immersing myself in books and always eager to learn something new.
 - 💖 As much as I love learning, I'm also open to unlearning mental models and belief systems that no longer serve me.
@@ -108,6 +107,6 @@
 
 ## Education
 
-| 🎓 Degree           | 💻 Major         | 🏫 University     | 📍 Location   | 🗓️ Graduation Date |
-|---------------------|------------------|------------------|--------------|-------------------|
-| Bachelor of Science | Computer Science | [Tanta University](https://tanta.edu.eg/) | Tanta, Egypt | July 2025         |
+| 🎓 Degree           | 💻 Major         | 🏫 University     | 📍 Location  |
+|---------------------|------------------|------------------|-------------|
+| Bachelor of Science | Computer Science | [Tanta University](https://tanta.edu.eg/) | Tanta, Egypt |
