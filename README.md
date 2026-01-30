@@ -47,7 +47,7 @@
 | 🏢 Company/Org | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
 | Independent | AI/ML/Data Engineering Consultant | Dec 2025 - Present |
-| [Lightning Labs](https://lightning.engineering/) | Software Engineering Consultant | Apr 2025 - Jan 2026 |
+| [Lightning Labs](https://lightning.engineering/) | Software Engineering Consultant | May 2025 - Jan 2026 |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google Summer of Code @ [Apache Beam](https://github.com/apache/beam) | May 2025 - Oct 2025 |
 | [Linux Foundation](https://www.linuxfoundation.org/) ([CNCF](https://www.cncf.io/)) | Linux Foundation Mentorship @ [Karmada](https://github.com/karmada-io/karmada/) | Sep 2024 - Nov 2024 |
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/) | Bitcoin Development | May 2024 - Aug 2024 |
