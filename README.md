@@ -101,9 +101,9 @@
 
 ## Spoken Languages
 
-| 🇪🇬 Arabic | 🇺🇸 English     |
+| Arabic | English     |
 | ---------- | --------------- |
-| 🏅 Native  | 💼 Professional |
+| L1  | B2 |
 
 
 ## Education
