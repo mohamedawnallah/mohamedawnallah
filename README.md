@@ -102,7 +102,7 @@
 
 | Arabic | English     |
 | ---------- | --------------- |
-| L1  | B2 |
+| Native  | B2 |
 
 
 ## Education
